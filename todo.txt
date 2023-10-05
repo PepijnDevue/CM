@@ -15,3 +15,9 @@ Denk aan consumenten met (te)veel, weinig of geen leningen.
 
 Eindopdr:
 Data-analyse voor de 3 vragen duidelijk maken en doen
+    Correlatieonderzoek voor 1 of meerdere vragen
+Toepassing van minimaal 1 supervised machine learning model
+Toepassing van minimaal 1 unsupervised machine learning model
+Uitbreiding van toegewezen dataset met externe 2de dataset
+Alles interactief visualiseren voor de gebruiker
+Per onderzoeksvraag pipeline maken (eg. https://www.kaggle.com/code/nadintamer/titanic-survival-predictions-beginner/notebook)
