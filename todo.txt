@@ -1,0 +1,17 @@
+casusopdr 3:
+Vraag 1.
+    Notebook inleveren met het eerste model, knn, 
+    incl baseline 
+    laat zien hoe we dit model verbeterd hebben dmv hyperparameters
+    laat me analytics zien hoe goed het model werkt en waar het verkeerd werkt
+
+vraag 3. In hoeverre is het mogelijk om logische clusters van consumenten (bijv. AMT_INCOME_TOTAL, DAYS_EMPLOYED, CNT_FAM_MEMBERS) 
+en hun leningen te vinden (bijv. AMT_CREDIT, AMT_ANNUITY, AMT_GOODS_PRICE)? 
+Denk aan consumenten met (te)veel, weinig of geen leningen.
+    Begin alvast hier aan:
+        unsupervised machine learning model maken om logische clusters te vinden, de clusters mogen al in de dataset voorkomen.
+    Bedenk conceptonderzoeksvraag en overleg deze met docent
+
+
+Eindopdr:
+Data-analyse voor de 3 vragen duidelijk maken en doen
